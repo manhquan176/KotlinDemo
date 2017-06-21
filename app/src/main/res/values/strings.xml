@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DemoKotlin</string>
+    <string name="nameFormat">Name: %1$d</string>
+    <string name="ageFormat">Age: %1$d</string>
+    <string name="pointFormat">Point: %1$d</string>
+</resources>
